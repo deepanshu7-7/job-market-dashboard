@@ -2,7 +2,7 @@
 
 > An ML-powered dashboard analysing **12,000 real DS/ML job postings** from Naukri.com to help aspiring data scientists understand the Indian job market — and where they stand in it.
 
-🚀 **[Live Demo →](https://your-streamlit-url.streamlit.app)**  &nbsp;|&nbsp;  📁 **[Dataset — Naukri.com India](https://www.kaggle.com/datasets/anandhuh/data-science-jobs-in-india)**
+🚀 **[Live Demo →]([https://your-streamlit-url.streamlit.app](https://job-market-dashboard-cjyrh5y2u4ban5babyigct.streamlit.app/))**  &nbsp;|&nbsp;  📁 **[Dataset — Naukri.com India](https://www.kaggle.com/datasets/anandhuh/data-science-jobs-in-india)**
 
 ---
 
