@@ -98,7 +98,7 @@ Browser opens automatically at `http://localhost:8501`
 streamlit
 pandas
 numpy
-plotly
+plotly==5.18.0
 scikit-learn
 ```
 
